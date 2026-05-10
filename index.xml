@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 May 2026 13:59:41 +0300</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Cheatsheet</title>
+      <link>https://example.org/posts/network_cheatsheet/</link>
+      <pubDate>Sun, 10 May 2026 13:59:41 +0300</pubDate>
+      <guid>https://example.org/posts/network_cheatsheet/</guid>
+      <description>&lt;h1 id=&#34;this-is-my-second-blog&#34;&gt;This is my second blog&lt;/h1&gt;
+&lt;h2 id=&#34;random-commands&#34;&gt;Random Commands&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;cat&lt;/li&gt;
+&lt;li&gt;dig&lt;/li&gt;
+&lt;li&gt;ssh&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Linux Cheatsheet</title>
+      <link>https://example.org/posts/linux_cheatsheet/</link>
+      <pubDate>Sun, 10 May 2026 13:57:41 +0300</pubDate>
+      <guid>https://example.org/posts/linux_cheatsheet/</guid>
+      <description>&lt;h1 id=&#34;this-is-my-first-blog&#34;&gt;This is my first blog&lt;/h1&gt;
+&lt;h2 id=&#34;network-commands&#34;&gt;Network Commands&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ping&lt;/li&gt;
+&lt;li&gt;dig&lt;/li&gt;
+&lt;li&gt;ssh&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hello world.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
